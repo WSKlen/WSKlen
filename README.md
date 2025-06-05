@@ -11,7 +11,7 @@
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
 <ul>
-  <li>💻 <strong>Linguagens:</strong> Python, Mathematica, LaTeX, Rust </li>
+  <li>💻 <strong>Linguagens:</strong> Python, Mathematica, LaTeX, C </li>
   <li>🔧 <strong>Ferramentas:</strong> VSCode, Git, Docker</li>
 </ul>
 
@@ -33,3 +33,12 @@
 </ul>
 
 <p align="center">Feito com ❤️ e muita 1,3,7-trimentilxantina (cafeína)!</p>
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
