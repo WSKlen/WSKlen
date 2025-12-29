@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  🚀 Físico computacional em formação contínua, com interesse em <strong>dinâmica caótica, relatividade geral, simulações numéricas</strong> e <strong>desenvolvimento de softwares científicos</strong>.
+  🚀 Físico em formação contínua, com interesse em <strong>dinâmica caótica, relatividade geral, simulações numéricas</strong> e <strong>desenvolvimento de softwares científicos</strong>.
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Atualmente desenvolvo pesquisas na interface entre física teórica e computação científica. Tenho experiência em:
+Atualmente desenvolvo pesquisas na interface entre física teórica e computação. Tenho experiência em:
 
 - Modelagem de sistemas caóticos com campos escalares em cosmologia
 - Análise de geodésicas em buracos negros e espaço-tempo curvo
-- Construção de diagramas de bifurcação, expoentes de Lyapunov e variedades invariantes
+- Construção de diagramas de bifurcação, expoentes de Lyapunov e busca por variedades invariantes
 - Desenvolvimento de códigos eficientes em Python, C e Fortran para simulações de alta performance
 
 ---
@@ -27,14 +27,6 @@ Atualmente desenvolvo pesquisas na interface entre física teórica e computaç�
 - **Ferramentas:** Git, GitHub, VSCode, Docker, Linux (terminal), Jupyter  
 - **Bibliotecas:** NumPy, SciPy, Matplotlib, Numba, SymPy, Pandas  
 - **Design & Docs:** Figma, Canva, Markdown, Overleaf  
-
----
-
-## 📚 No que estou me aprofundando
-
-- 🔍 **Desenvolvimento Web:** Front-end com React e Tailwind | Back-end com Flask e FastAPI  
-- 📈 **Aprendizado de Máquina:** Redes neurais aplicadas à física (modos quasinormais, previsões caóticas)  
-- 🔬 **Bioinformática & eDNA:** Análises de diversidade com `phyloseq`, pipelines com `dada2`
 
 ---
 
