@@ -13,7 +13,7 @@
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSKlen&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSKlen&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
