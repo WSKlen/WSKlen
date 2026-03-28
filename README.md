@@ -10,6 +10,14 @@
 
 ---
 
+## 📊 Linguagens mais utilizadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WSKlen&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🧠 Sobre mim
 
 Atualmente desenvolvo pesquisas na interface entre física teórica e computação. Tenho experiência em:
@@ -66,4 +74,3 @@ Atualmente desenvolvo pesquisas na interface entre física teórica e computaç�
   <!-- Canva -->
   <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
