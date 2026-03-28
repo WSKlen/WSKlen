@@ -36,7 +36,10 @@ I work at the intersection of **theoretical physics** and **computational modeli
 Python • C • Fortran • LaTeX • Mathematica  
 
 **Scientific Libraries**  
-NumPy • SciPy • Matplotlib • Numba • SymPy • Pandas  
+NumPy • SciPy • Matplotlib • SymPy • Pandas  
+
+**HPC / Parallel Computing**  
+GSL • OpenMP • MPI  
 
 **Tools & Environment**  
 Git • Linux • VSCode • Jupyter • Docker  
