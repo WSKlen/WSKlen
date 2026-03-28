@@ -1,44 +1,58 @@
-<h1 align="center">Olá, eu sou o Wayner! 👋</h1>
+<h1 align="center">Wayner Klën</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3e8a6c17-0f3b-402e-bc06-852e67345d41" alt="logo3altAlpha" width="200">
+  <strong>Theoretical Physics • Nonlinear Dynamics • Scientific Computing</strong>
 </p>
 
 <p align="center">
-  🚀 Físico em formação contínua, com interesse em <strong>dinâmica caótica, relatividade geral, simulações numéricas</strong> e <strong>desenvolvimento de softwares científicos</strong>.
-</p>
-
----
-
-## 📊 Linguagens mais utilizadas
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WSKlen&layout=compact" />
+  <img src="https://github.com/user-attachments/assets/3e8a6c17-0f3b-402e-bc06-852e67345d41" alt="logo" width="180">
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Research Interests
 
-Atualmente desenvolvo pesquisas na interface entre física teórica e computação. Tenho experiência em:
+I work at the intersection of **theoretical physics** and **computational modeling**, with emphasis on:
 
-- Modelagem de sistemas caóticos com campos escalares em cosmologia
-- Análise de geodésicas em buracos negros e espaço-tempo curvo
-- Construção de diagramas de bifurcação, expoentes de Lyapunov e busca por variedades invariantes
-- Desenvolvimento de códigos eficientes em Python, C e Fortran para simulações de alta performance
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens:** Python, C, Fortran, LaTeX, Mathematica  
-- **Ferramentas:** Git, GitHub, VSCode, Docker, Linux (terminal), Jupyter  
-- **Bibliotecas:** NumPy, SciPy, Matplotlib, Numba, SymPy, Pandas  
-- **Design & Docs:** Figma, Canva, Markdown, Overleaf  
+- Nonlinear dynamical systems and chaos
+- Cosmological models with scalar fields
+- General relativity and geodesic analysis
+- Numerical methods for high-dimensional systems
 
 ---
 
-## 📫 Entre em contato
+## 🔬 Current Work
+
+- Analysis of chaotic behavior in cosmological scalar field models  
+- Computation of Lyapunov exponents and bifurcation structures  
+- Study of invariant manifolds and strange attractors  
+- Development of high-performance numerical solvers (Python, C, Fortran)  
+
+---
+
+## ⚙️ Technical Skills
+
+**Languages**  
+Python • C • Fortran • LaTeX • Mathematica  
+
+**Scientific Libraries**  
+NumPy • SciPy • Matplotlib • Numba • SymPy • Pandas  
+
+**Tools & Environment**  
+Git • Linux • VSCode • Jupyter • Docker  
+
+---
+
+## 📁 Selected Topics in This Repository
+
+- Dynamical system integration (RK methods, adaptive solvers)  
+- Poincaré sections and phase space analysis  
+- Bifurcation diagrams and parameter exploration  
+- Lyapunov spectrum computation  
+
+---
+
+## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/wayner-de-souza-klën-m-sc-b707b9117)
 - 📧 [E-mail](mailto:wayner.klen@gmail.com)
@@ -47,30 +61,18 @@ Atualmente desenvolvo pesquisas na interface entre física teórica e computaç�
 ---
 
 <p align="center">
-  Feito com ❤️ e 1,3,7-trimetilxantina (também conhecida como cafeína ☕)
+  <em>Scientific computing meets nonlinear dynamics</em> ⚡
 </p>
 
 ---
 
-## 🧰 Badges
+## 🧰 Technologies
 
 <p align="center">
-  <!-- Python -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <!-- C -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <!-- LaTeX -->
+  <img src="https://img.shields.io/badge/fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" />
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <!-- Markdown -->
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-  <!-- Git -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <!-- Unity -->
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <!-- Figma -->
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <!-- Canva -->
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
