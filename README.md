@@ -1,4 +1,4 @@
-<h1 align="center">Wayner Klën</h1>
+<h1 align="center">Wayner S. Klën</h1>
 
 <p align="center">
   <strong>Theoretical Physics • Nonlinear Dynamics • Scientific Computing</strong>
