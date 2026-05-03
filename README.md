@@ -42,7 +42,7 @@ NumPy • SciPy • Matplotlib • SymPy • Pandas
 GSL • OpenMP • MPI  
 
 **Tools & Environment**  
-Git • Linux • VSCode • Jupyter • Docker  
+Git • Linux • VSCode • Jupyter  
 
 ---
 
